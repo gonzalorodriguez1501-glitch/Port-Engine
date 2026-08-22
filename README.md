@@ -10,6 +10,8 @@ Here are the features this mod adds:
 
 - Genocide: A button for the owner’s provinces (including those you’ve occupied). When you select the province where you want to use Genocide, it eliminates the possibility of rebellion but reduces your population and economy.
 
-More coming soon...
+- New Ultimatums:
+  - Ultimatum to leave the alliance
+  - Ultimatum to hand over one of the victim's vassals
 
 The engine is still under construction and being programmed, but I was able to add what I could; I’ll be adding more gameplay features later...
