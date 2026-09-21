@@ -14,4 +14,6 @@ Here are the features this mod adds:
   - Ultimatum to leave the alliance
   - Ultimatum to hand over one of the victim's vassals
 
+ - Focus Tree / Focus Inferface (Part 1)
+
 The engine is still under construction and being programmed, but I was able to add what I could; I’ll be adding more gameplay features later...
